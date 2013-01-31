@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: colintemple	
-Donate link: http://workwebplay.com/endmark/
+Donate link: http://colintemple.com/endmark/
 Tags: end mark, end of article, symbol	
 Requires at least: 2.2.2
-Tested up to: 2.8.2
+Tested up to: 3.5.1
 Stable tag: trunk
 
 Endmark adds a trailing symbol to the end of your posts and pages.
