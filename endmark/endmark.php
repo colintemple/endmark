@@ -115,7 +115,7 @@ if( ! function_exists( 'endmark_conf_page' ) ) {
 if( ! function_exists( 'endmark_conf' ) ) {
 	//Add the administration page for this plugin
 	function endmark_conf() {
-		add_theme_page('Endmark Options', 'Endmark', 8, __FILE__, endmark_conf_page);
+		add_theme_page('Endmark Options', 'Endmark', 'publish_posts', __FILE__, 'endmark_conf_page');
 	}
 }
 
