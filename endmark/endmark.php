@@ -45,8 +45,8 @@ add_action('admin_menu', 'endmark_conf');
 if( ! function_exists( 'endmark_conf_page' ) ) {
 	//Generate the administration page itself
 	function endmark_conf_page() { 
-
-	    if( 'Y' == $_POST['gonow']) {
+	    $gonow = isset($_POST['gonow']) ? $_POST['gonow'] : '';
+	    if( 'Y' == $gonow ) {
 	    
     		update_option( "endmark_type", $_POST["endmark_type"] );
     		update_option( "endmark_symbol", $_POST["endmark_symbol"] );
