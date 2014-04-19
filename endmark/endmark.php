@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Endmark
-Plugin URI: http://workwebplay.com/
+Plugin URI: http://colintemple.com/
 Description: Adds an end-of-article symbol to the end of posts and pages.
 Version: 1.4
 Author: Colin Temple
@@ -11,8 +11,6 @@ Author URI: http://colintemple.com/
  * Endmark
  * by Colin Temple <http://colintemple.com/>, 2008 - 2013
  * License: GPL 3.0 <http://www.gnu.org/licenses/gpl.html>
- * 
- *  This file is part of The Tableau Machine.
  *
  *  Endmark is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
