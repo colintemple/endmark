@@ -1,0 +1,28 @@
+{
+  "name": "colintemple/endmark",
+  "description": "Endmark adds a trailing symbol to the end of your posts and pages.",
+  "keywords": ["wordpress", "typography", "endmark", "symbol"],
+  "homepage": "https://github.com/colintemple/endmark",
+  "readme": "./README.md",
+  "license": "GPL-3.0-or-later",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Colin Temple",
+      "homepage": "https://colintemple.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/colintemple/endmark/issues",
+    "sources": "https://github.com/colintemple/endmark",
+    "docs": "https://github.com/colintemple/endmark/blob/master/README.md"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "^1.5.0"
+  },
+  "require-dev": {
+    "johnpbloch/wordpress-core": "^4.9.8"
+  }
+}

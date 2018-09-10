@@ -1,0 +1,55 @@
+# French translation of Endmark.class user interface.
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the colintemple/endmark
+# package.
+# Colin Temple, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: endmark 1.4\n"
+"POT-Creation-Date: 2008-02-07 21:56+0200\n"
+"PO-Revision-Date: 2018-09-09 00:26-0400\n"
+"Last-Translator: Colin Temple\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_CA\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "The settings have been saved."
+msgstr "Options enregistrées."
+
+msgid "Endmark.class Settings"
+msgstr "Options Endmark.class"
+
+msgid "Endmark.class to display:"
+msgstr "Endmark.class à afficher :"
+
+msgid "Endmark.class Symbol"
+msgstr "Symbole Endmark.class"
+
+msgid "Endmark.class Image"
+msgstr "Image Endmark.class"
+
+msgid "Where to display Endmark.class:"
+msgstr "Où afficher Endmark.class :"
+
+msgid "Posts and Pages"
+msgstr "Articles et pages"
+
+msgid "Posts Only"
+msgstr "Articles seulement"
+
+msgid "Pages Only"
+msgstr "Pages seulement"
+
+msgid "Symbol:"
+msgstr "Symbole :"
+
+msgid "Image (URL or path):"
+msgstr "Image Endmark.class (URL ou chemin) :"
+
+msgid "Save Endmark.class"
+msgstr "Enregistrer Endmark.class"
