@@ -3,7 +3,7 @@
 Plugin Name: Endmark
 Plugin URI: https://github.com/colintemple/endmark
 Description: Adds an end-of-article symbol to the end of posts and pages.
-Version: 1.4.1
+Version: 2.0.0-beta
 Author: Colin Temple
 Author URI: https://colintemple.com/
 Text Domain: endmark
