@@ -273,7 +273,7 @@ class Settings_Page
             return;
         }
 
-        \wp_enqueue_script('endmark_admin_script', \plugins_url('/js/save_settings.js', __FILE__),
+        \wp_enqueue_script('endmark_admin_script', \plugins_url('/src/js/save_settings.js', __FILE__),
             array('jquery'));
 
         \wp_localize_script('endmark_admin_script', 'endmarkAdminSettings',
